@@ -1,7 +1,7 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: rgb(241, 207, 53);
 }
 
 .label {
@@ -11,9 +11,24 @@ li {
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
+  background: rgb(6, 131, 131);
 }
 
 .form-group {
   margin-bottom: 5px;
+}
+
+.jumbotron {
+  margin: 45px 50px 10px 50px;
+  background: #f6f6f6;
+  text-align: center;
+}
+
+.card {
+  margin: 45px;
+  background: rgb(241, 207, 53);
+}
+
+body {
+  background-color: red;
 }
